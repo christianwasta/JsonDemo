@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/wasta/Documents/VSCode/IST411InClass/gson-2.8.5.jar"
+    ]
+}
